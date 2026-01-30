@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="edu.cmu.cs.cs214.rec04.InheritanceSortedIntListTest" time="0.001" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="edu.cmu.cs.cs214.rec04.InheritanceSortedIntListTest" time="0.0" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire/surefirebooter-20260130004811310_3.jar /Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire 2026-01-30T00-48-11_271-jvmRun1 surefire-20260130004811310_1tmp surefire_0-20260130004811310_2tmp"/>
+    <property name="sun.java.command" value="/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire/surefirebooter-20260130131649558_3.jar /Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire 2026-01-30T13-16-49_523-jvmRun1 surefire-20260130131649558_1tmp surefire_0-20260130131649558_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/test-classes:/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/classes:/Users/marcuswhite/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/Users/marcuswhite/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/lib/SortedIntLists.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire/surefirebooter-20260130004811310_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/marcuswhite/Desktop/17-214/s26-lab03/Java/target/surefire/surefirebooter-20260130131649558_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="25.0.2"/>

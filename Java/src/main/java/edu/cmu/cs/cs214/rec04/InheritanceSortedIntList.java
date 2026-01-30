@@ -37,6 +37,19 @@ public class InheritanceSortedIntList extends SortedIntList {
     }
     
     /**
+     * Adds all of the elements of the IntegerList to the list.
+     * Note: We don't increment totalAdded here because super.addAll() 
+     * calls add() for each element, which increments the counter.
+     *
+     * @param list IntegerList containing elements to be added to the list
+     * @return true if the list changed as a result of the call
+     */
+    @Override
+    public boolean addAll(IntegerList list) {
+        return super.addAll(list);
+    }
+    
+    /**
      * Returns the total number of attempted element insertions to this list
      * since it was created.
      *
